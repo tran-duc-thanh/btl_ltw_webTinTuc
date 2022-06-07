@@ -19,7 +19,7 @@
 
 <nav>
     <a href="#" class="chonVao">Trang chủ</a>
-    <a href="news.html">Bài viết</a>
+    <a href="theLoai.jsp">Bài viết</a>
     <a href="dangNhap.jsp">Đăng nhập</a>
 </nav>
 
