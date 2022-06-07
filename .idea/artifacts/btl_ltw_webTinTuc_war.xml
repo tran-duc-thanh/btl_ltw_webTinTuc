@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="btl_ltw_webTinTuc:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>btl_ltw_webTinTuc</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="btl_ltw_webTinTuc-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="btl_ltw_webTinTuc:war exploded" />
+    </root>
+  </artifact>
+</component>
